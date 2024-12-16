@@ -1,0 +1,11 @@
+<Header>
+  <Name>Level Up</Name>
+  <Author>Wintermourn</Author>
+  <Description>Provides options to customize the level cap.</Description>
+  <Namespace>levelup</Namespace>
+  <UUID>F0D62E31-6B8C-4569-BF27-5A0E30B880CE</UUID>
+  <Version>1.0</Version>
+  <GameVersion>0.8.6.0</GameVersion>
+  <ModType>Mod</ModType>
+  <Relationships />
+</Header>
